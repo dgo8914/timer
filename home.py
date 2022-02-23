@@ -1,7 +1,7 @@
 import time
 
-place = "home"
-action  = "miss"
+place = "XXXX"
+action  = "YYYYY"
 
 print (" I " + action + " my " + place)
 
